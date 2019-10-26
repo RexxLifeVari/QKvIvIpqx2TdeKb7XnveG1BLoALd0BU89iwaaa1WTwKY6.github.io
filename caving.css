@@ -1,16 +1,16 @@
 .edit .controller.ds4 {
-    background: url(https://RexxLifeVari.github.io/Custom/cavingbase3.png);
+    background: url(https://RexxLifeVari.github.io/ps4/base/caving_base.png);
 }
 
 
 .controller.edit {
-    background: url(https://RexxLifeVari.github.io/Custom/cavingbase3.png);
+    background: url(https://RexxLifeVari.github.io/ps4/base/caving_base.png);
 }
 
 .edit .ds4 .stick {
     background: url(https://RexxLifeVari.github.io/Custom/caving_sticks.png);
 }
-    
+
 .edit .stick {
     background: url(https://RexxLifeVari.github.io/Custom/caving_sticks.png);
 }
